@@ -1,2 +1,2 @@
 software Engineering 2
-Second /vcs
+github
